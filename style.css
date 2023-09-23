@@ -24,7 +24,7 @@ body {
 /*=============== LAYERS ===============*/
 .logo {
     position: absolute;
-    left: 50%;
+    left: 48%;
     top: 3%;
     z-index: 1;
 }
