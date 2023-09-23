@@ -24,9 +24,10 @@ body {
 /*=============== LAYERS ===============*/
 .logo {
     position: absolute;
-    left: 48%;
+    left: 50%;
     top: 3%;
     z-index: 1;
+    transform: translate(-50%, -5%);
 }
 
 .logo a {
